@@ -18,6 +18,7 @@ public class Basics {
 
             System.out.println("9"); // The index of the mountain to fire on.
         }
+        // redouane
     }
 }
 
