@@ -1,0 +1,10 @@
+
+Osquid:UnusedPrivateMethod"*Remove this unused private "print" method.(¸ù™¾
+tsquid:S3008"]Rename this field "NOMBRE_OF_PERSONES" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(³ÔÍþ
+Osquid:S1444"8Make this "public static NOMBRE_OF_PERSONES" field final(³ÔÍþ
+O
+squid:S106	"9Replace this use of System.out or System.err by a logger.(©Åßó
+O
+squid:S106"9Replace this use of System.out or System.err by a logger.(¬¬ïµ
+Œ"squid:ClassVariableVisibilityCheck"^Make NOMBRE_OF_PERSONES a static final constant or non-public and provide accessors if needed.(³ÔÍþ
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(§âÃ¤
